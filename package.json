@@ -1,0 +1,15 @@
+{
+  "main": "./index.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^22.0.0",
+    "react": "16.0.0-beta.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz",
+    "react-native-button": "^2.1.0",
+    "react-native-radio-buttons": "^1.0.0"
+  },
+  "name": "metr",
+  "version": "1.0.0",
+  "description": "Metric/Imperial Tester Game.",
+  "author": "Kevin Smith"
+}

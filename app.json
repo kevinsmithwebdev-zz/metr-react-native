@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "metr",
+    "description": "Metric/Imperial Tester Game.",
+    "slug": "metr",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kevinsmithwebdev.metr"
+    },
+    "android": {
+      "package": "com.kevinsmithwebdev.metr",
+      "permissions": []
+    }
+  }
+}
